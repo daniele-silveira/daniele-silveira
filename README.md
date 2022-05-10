@@ -31,7 +31,9 @@ Algumas das linguagens que estou estudando ou tenho conhecimento:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" width="40" height="40"/>
          
 </p>
-          
+
+##
+
 <div> 
 Meu Contato: <br /> <br /> 
 <a href = "daniele20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
