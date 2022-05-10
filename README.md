@@ -4,20 +4,20 @@
 **daniele-silveira/daniele-silveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<p> Daniele, estudante de programação.<br /><br /></p>
+<p> In progress!  <br /><br /></p>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/101999980/167680183-88896c09-e07f-4bf6-9962-754d0463f0c6.png" width="400px" />
 
 
 <hr />
   
->*
->*
->* 
+ >Meu nome é Daniele, sou formada em Gestão em TI. Tenho mais de 10 anos de experiência em suporte à hardware e software. <br />
+ >Aluna do curso de Full Stack Java + Python para Dados através do Programa Tranforme-Se da Serasa Experian, programa afirmativo para mulheres, lecionado pela Digital House.
+
 
 <hr />
 
-Algumas das linguagens que estou estudando ou tenho conhecimento:
+Algumas das linguagens que estou estudando/tenho conhecimento:
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" />
