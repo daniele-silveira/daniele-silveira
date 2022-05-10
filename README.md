@@ -39,7 +39,8 @@ Meu Contato: <br /> <br />
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
           
  
- 
+<br />
+ <br />
   
 ![Snake animation](https://github.com/daniele-silveira/daniele-silveira/blob/output/github-contribution-grid-snake.svg)
   
