@@ -12,7 +12,7 @@
 <hr />
   
  >Meu nome é Daniele, sou formada em Gestão em TI. Tenho mais de 10 anos de experiência em suporte à hardware e software. <br />
- >Aluna do curso de Full Stack Java + Python para Dados através do Programa Tranforme-Se da Serasa Experian, programa afirmativo para mulheres, lecionado pela Digital House.
+ >Aluna do curso de Full Stack Developer Java + Python para Dados através do Programa Tranforme-Se da Serasa Experian, programa afirmativo para mulheres, lecionado pela Digital House.
 
 
 <hr />
