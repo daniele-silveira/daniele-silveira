@@ -4,7 +4,7 @@
 **daniele-silveira/daniele-silveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<p> In progress!  <br /><br /></p>
+<p> In progress!🚀 <br /><br /></p>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/101999980/167680183-88896c09-e07f-4bf6-9962-754d0463f0c6.png" width="400px" />
 
