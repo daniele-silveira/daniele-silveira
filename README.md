@@ -10,14 +10,72 @@
 
 
 <hr />
-  
- >Eu sou a Daniele,  formada em Gestão em TI. Tenho mais de 10 anos de experiência em suporte à hardware e software. <br />
- >Aluna do curso de Full Stack Developer Java + Python para Dados através do Programa Tranforme-Se da Serasa Experian, programa afirmativo para mulheres, lecionado pela Digital House.
+# 👩‍💻 Sobre Mim
 
+Olá! Meu nome é Daniele, e estou na área de tecnologia desde 2004, acumulando experiência sólida em **infraestrutura de TI** e **suporte a hardware e software**. Atualmente, estou em transição para a área de **desenvolvimento de software**, com foco em me tornar uma **desenvolvedora júnior fullstack**.
 
-<hr />
+Sou uma profissional **autogerenciável**, **focada na solução de problemas**, com atenção aos detalhes e organização. Estou estudando as linguagens **Python** e **Java** e desenvolvendo habilidades em tecnologias modernas para atuar tanto no **frontend** quanto no **backend**.
 
-Algumas das linguagens que estou estudando/tenho conhecimento:
+---
+
+## 🚀 Conhecimentos Técnicos
+
+### Metodologias
+- Scrum
+- Kanban
+
+### Banco de Dados
+- MySQL
+- SQLite
+
+### Front-End
+- HTML5 + CSS3
+- Bootstrap 5
+- Angular
+- React
+
+### Back-End
+- Python
+- Java
+- Spring Framework
+- Postman
+
+### Sistemas Operacionais
+- Windows
+- Linux
+
+### Servidores
+- Apache Tomcat
+
+### Gerenciamento de Projetos
+- Trello
+
+### Leis e Normas
+- LGPD (Lei Geral de Proteção de Dados)
+- ISO 27001 (Segurança da Informação)
+
+### Conceitos e Boas Práticas
+- Clean Code
+
+### Versionamento de Código
+- Git e GitHub
+
+---
+
+## 🌱 O que estou aprendendo atualmente
+
+Estou aprimorando meus conhecimentos em:
+- Desenvolvimento backend com Java e Spring Boot.
+- Estruturação e design de banco de dados.
+- Boas práticas no desenvolvimento fullstack.
+
+---
+
+## 🎯 Objetivos Profissionais
+
+Meu objetivo é consolidar minha carreira como desenvolvedora fullstack, contribuindo para projetos inovadores que impactem positivamente o mundo da tecnologia.
+
+---
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" />
