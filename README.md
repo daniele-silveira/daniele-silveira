@@ -10,7 +10,7 @@
 
 
 <hr />
-# 👩‍💻 Sobre Mim
+👩‍💻 Sobre Mim
 
 Olá! Meu nome é Daniele, e estou na área de tecnologia desde 2004, acumulando experiência sólida em **infraestrutura de TI** e **suporte a hardware e software**. Atualmente, estou em transição para a área de **desenvolvimento de software**, com foco em me tornar uma **desenvolvedora júnior fullstack**.
 
@@ -62,9 +62,9 @@ Sou uma profissional **autogerenciável**, **focada na solução de problemas**,
 
 ---
 
-## 🌱 O que estou aprendendo atualmente
+## 🌱 Estou aprimorando meus conhecimentos em:
 
-Estou aprimorando meus conhecimentos em:
+
 - Desenvolvimento backend com Java e Spring Boot.
 - Estruturação e design de banco de dados.
 - Boas práticas no desenvolvimento fullstack.
