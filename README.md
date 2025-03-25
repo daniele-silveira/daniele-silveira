@@ -98,8 +98,6 @@
 
 ## 🐍 Contribuições
 
-![Snake animation](https://github.com/daniele-silveira/daniele-silveira/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=daniele-silveira&color=blueviolet&style=flat-square" alt="Visualizações do perfil">
 </div>
