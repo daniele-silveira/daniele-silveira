@@ -6,7 +6,7 @@
 
 ---
 
-## 👩💻 Sobre Mim
+## 💻 Sobre Mim
 
 	•	🎯 Profissional em transição com 19+ anos em infraestrutura de TI
 	•	💡 Especialista em solução de problemas complexos e arquitetura de sistemas
@@ -101,7 +101,8 @@
 ![Snake animation](https://github.com/daniele-silveira/daniele-silveira/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=daniele-silveira&color=blueviolet&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=daniele-silveira&color=blueviolet&style=flat-square" alt="Visualizações do perfil">
 </div>
+
 
 
